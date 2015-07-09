@@ -5,7 +5,7 @@ Finds duplicate files based on SHA-1 hash of file contents.
 
 ##Options
 
-`-r`: recurses on subdirectories
+`-r`: recurses on subdirectories  
 `-D`: removes duplicates by preserving the first file and deleting all others that share the same `sha1_id`.
 
 ## Output format
